@@ -9,6 +9,12 @@ Additional resources:
 - check "Build Logs" if build is failing in the AWS console
 - https://stackoverflow.com/questions/70036160/amplifysignout-is-not-exported-from-aws-amplify-ui-react
 
+## Helpful CLI commands
+
+`amplify push --y` after making a change to backend locally
+
+`git push origin master` automatically pushes a new deploy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
