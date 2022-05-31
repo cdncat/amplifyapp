@@ -44,5 +44,3 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 
 amplify/team-provider-info.json
-amplify/backend/awscloudformation
-amplify/backend/auth
