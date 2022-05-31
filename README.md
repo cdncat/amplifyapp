@@ -1,3 +1,14 @@
+# Custom notes
+
+Main resource: https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
+Additional resources:
+
+- when connecting front end branch to poin to the backend environment (module 3), need to create a service role (https://docs.aws.amazon.com/amplify/latest/userguide/how-to-service-role-amplify-console.html)
+- override "Build image settings" by specifying the Amplify CLI that you are using
+- check "Build Logs" if build is failing in the AWS console
+- https://stackoverflow.com/questions/70036160/amplifysignout-is-not-exported-from-aws-amplify-ui-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
